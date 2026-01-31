@@ -2,17 +2,17 @@
 
 :root {
   --primary: #ffffff;
-  --secondary: #aa076b;
-  --tertiary: #43cea2; /*#3a96dd;*/
+  --secondary: #7b4397;
+  --tertiary: #56ab2f; /*#3a96dd;*/
   --page: #ffffff;
   --onprimary: #664300;
   --onsecondary: #664300;
   --ontertiary: #ffffff;
   --onpage: #000000;
-  --detail: #ffb88c;
-  --detail2: #185a9d;
+  --detail: #dc2430;
+  --detail2: #a8e063;
 
   --body-font: 1.1rem Verdana, sans-serif;
-  --header-font: lighter 3rem Verdana, sans-serif;
-  --title-font: lighter 2rem Verdana, sans-serif;
+  --header-font: lighter 3rem Bungee, sans-serif;
+  --title-font: lighter 2rem Bangers, sans-serif;
 }
